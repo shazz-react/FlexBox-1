@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/shahabaz.khan/Documents/Learning-React-Native/Flexbox/flexbox_1/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/shahabaz.khan/Documents/Learning-React-Native/Flexbox/flexbox_1/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/shahabaz.khan/Documents/Learning-React-Native/Flexbox/flexbox_1/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/shahabaz.khan/Documents/Learning-React-Native/Flexbox/flexbox_1/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/shahabaz.khan/Documents/Learning-React-Native/Flexbox/flexbox_1/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/shahabaz.khan/Documents/Learning-React-Native/Flexbox/flexbox_1/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/shahabaz.khan/Documents/Learning-React-Native/Flexbox/flexbox_1/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/shahabaz.khan/Documents/Learning-React-Native/Flexbox/flexbox_1/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/shahabaz.khan/Documents/Learning-React-Native/Flexbox/flexbox_1/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/shahabaz.khan/Documents/Learning-React-Native/Flexbox/flexbox_1/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/shahabaz.khan/Documents/Learning-React-Native/Flexbox/flexbox_1/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/shahabaz.khan/Documents/Learning-React-Native/Flexbox/flexbox_1/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/shahabaz.khan/Documents/Learning-React-Native/Flexbox/flexbox_1/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/shahabaz.khan/Documents/Learning-React-Native/Flexbox/flexbox_1/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/shahabaz.khan/Documents/Learning-React-Native/Flexbox/flexbox_1/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/shahabaz.khan/Documents/Learning-React-Native/Flexbox/flexbox_1/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/shahabaz.khan/Documents/Learning-React-Native/Flexbox/flexbox_1/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/shahabaz.khan/Documents/Learning-React-Native/Flexbox/flexbox_1/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/shahabaz.khan/Documents/Learning-React-Native/Flexbox/flexbox_1/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/shahabaz.khan/Documents/Learning-React-Native/Flexbox/flexbox_1/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/shahabaz.khan/Documents/Learning-React-Native/Flexbox/flexbox_1/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/shahabaz.khan/Documents/Learning-React-Native/Flexbox/flexbox_1/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h

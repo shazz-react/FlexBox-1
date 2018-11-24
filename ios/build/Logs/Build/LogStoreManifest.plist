@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>5A342D60-9C04-46AA-9B4B-1FDB7FF12496</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5A342D60-9C04-46AA-9B4B-1FDB7FF12496.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>flexbox_1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>flexbox_1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project flexbox_1 with scheme flexbox_1 and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>564736791.36783302</real>
+			<key>timeStoppedRecording</key>
+			<real>564736792.24426794</real>
+			<key>title</key>
+			<string>Building project flexbox_1 with scheme flexbox_1 and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>5A342D60-9C04-46AA-9B4B-1FDB7FF12496</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
