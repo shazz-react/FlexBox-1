@@ -1,7 +1,9 @@
 import React, { Component } from 'react';
 import { StyleSheet, View } from 'react-native';
+import BaseStylePropClass from "./BaseStylePropClass";
 
-export default class FlexDirection extends Component {
+export default class FlexDirection extends BaseStylePropClass {
+
   render() {
     return (
       <View style={styles.container}>
@@ -20,7 +22,7 @@ export default class FlexDirection extends Component {
           <View style={styles.box2} />
           <View style={styles.box3} />
         </View>
-        <View style={[styles.boxContainer,{ flexDirection: 'row-reverse' }]}>
+        <View style={[styles.boxContainer, { flexDirection: 'row-reverse' }]}>
           <View style={styles.box1} />
           <View style={styles.box2} />
           <View style={styles.box3} />

@@ -1,7 +1,9 @@
 import React, { Component } from 'react';
-import { StyleSheet, View } from 'react-native';
+import { StyleSheet, View, Button } from 'react-native';
+import BaseStylePropClass from "./BaseStylePropClass";
 
-export default class JustifyContent extends Component {
+export default class JustifyContent extends BaseStylePropClass {
+
   render() {
     return (
       <View style={styles.container}>
